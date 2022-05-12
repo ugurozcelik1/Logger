@@ -14,7 +14,7 @@ Login your testnet account:
 
 Clone:
 
-    git clone 
+    git clone https://github.com/ugurozcelik1/Login.git
 
 
 Install dependencies:
