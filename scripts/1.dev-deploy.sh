@@ -23,7 +23,8 @@ echo
 echo "(b) set an environment variable using this account name"
 echo "    see example below (this may not work on Windows)"
 echo
-echo " (c) then set another environment variable using your own account id" ---------------------------------------------------------
+echo "(c) then set another environment variable using your own account id" 
+echo ---------------------------------------------------------
 echo 'export CONTRACT=<dev-123-456>'
 echo 'export OWNER=<your own account>'
 # echo "near call \$CONTRACT init --accountId \$CONTRACT"
