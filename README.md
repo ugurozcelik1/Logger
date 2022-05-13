@@ -1,6 +1,6 @@
-# Login
+# Logger
 
-The project stores the login information on the blockchain and gives it to the user.
+The project stores the login information on the blockchain and gives it to the user. It contains owner account id and activity type.
 ---
 
 
