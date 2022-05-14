@@ -2,7 +2,7 @@
 import { Log, logs } from "./model"
 
 export function newLog (activity: string): Log{
-  assert(activity, 'Activity can not be null.');
+  assert(activity != "", 'Activity can not be null.');
   const log = new Log(activity);
   logs.push(log);
   return log;
